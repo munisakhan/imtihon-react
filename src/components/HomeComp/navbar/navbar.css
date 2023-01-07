@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul, ol {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+a{
+    padding-top: 40px;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    margin-left: 10px;
+}
+.navbar_li {
+    margin-top: 40px;
+}
+.navbar_ul li{
+    font-size: 22px;
+}
+.nav_img {
+    margin-left: 15px;
+}
+.modal_text {
+    margin-top: 90px;
+    cursor: pointer;
+    line-height: 18px;
+    margin-left: -5px;
+}
+.modal_message {
+    padding-top: 60px;
+}
+.modal_home{
+    padding-top: 50px;
+}
+.navbar_li i {
+    font-size: 40px;
+}
+.modal_input {
+    margin-top: 50px;
+    padding: 10px;
+}
+.modal_nav {
+    margin-top: -320px;
+    margin-left: 70px;
+    width: 70px;
+}
+i{
+    font-size: 20px;
+}
+.bx-log-out{
+   font-size: 30px;
+   padding-top: 170px;
+   margin-left: -70px;
+}
+.dark {
+    background-color: #333;
+    color: #fff;
+}
+.light {
+    background-color: #fff;
+    color: #333;
+}
+.toggle{
+    border-radius: 50px;
+    border: none;
+    margin-left: -65px;
+    background: none;
+}
+.toggle i{
+    font-size: 40px;
+}

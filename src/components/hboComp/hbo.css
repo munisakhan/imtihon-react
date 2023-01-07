@@ -1,0 +1,39 @@
+.first{
+    display: flex;
+  }
+.movies{
+    padding-top: 200px;
+    margin-left: 140px;
+    margin-top: -530px;
+}
+.a1{
+    margin-left: 120px;
+    border: 2px solid blue;
+    padding: 5px 20px;
+    transition: 0.5s;
+}
+.a1:hover{
+    background-color: blue;
+    color: white;
+  }
+.card ul{
+    text-decoration: none;
+    display: flex;
+    padding-top: 20px;
+}
+  .card img{
+    width: 340px;
+    height: 420px;
+    margin-left: 20px;
+  }
+ .card h1{
+    color: red;
+    font-size: 30px;
+    margin-left: 30px;
+ }
+ .card p{
+    margin-left: 20px;
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+ }
